@@ -1,0 +1,58 @@
+[
+  {
+    "cardNumber": "41111111111111111",
+    "cardHolder": "Maca",
+    "expirationDate": "12/28",
+    "cvv": "123",
+    "email": "maca1@example.com"
+  },
+  {
+    "cardNumber": "5555552255554444",
+    "cardHolder": "Juan Perez",
+    "expirationDate": "05/27",
+    "cvv": "987",
+    "email": "juan@example.com"
+  },
+  {
+    "cardNumber": "378282246344005",
+    "cardHolder": "Maca 2",
+    "expirationDate": "01/29",
+    "cvv": "1234",
+    "email": "maca2@example.com"
+  },
+  {
+    "cardNumber": "411144441111111",
+    "cardHolder": "Maca ",
+    "expirationDate": "12/28",
+    "cvv": "123",
+    "email": "maca@example.com"
+  },
+  {
+    "cardNumber": "41111145111111",
+    "cardHolder": "Maca ",
+    "expirationDate": "12/28",
+    "cvv": "123",
+    "email": "maca@example.com"
+  },
+  {
+    "cardNumber": "4111111111111111",
+    "cardHolder": "Maca ",
+    "expirationDate": "12/28",
+    "cvv": "123",
+    "email": "maca@example.com"
+  },
+  {
+    "cardNumber": "4222222222222",
+    "cardHolder": "No Auth",
+    "expirationDate": "10/29",
+    "cvv": "999",
+    "email": "noauth@example.com"
+  },
+  {
+    "cardNumber": "4222222222222",
+    "cardHolder": "Test test ",
+    "expirationDate": "10/29",
+    "cvv": "999",
+    "email": "macaejemplo@example.com"
+  }
+]
